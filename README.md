@@ -20,6 +20,7 @@ Consolidate the knowledge in Python, specifically in :
 ## Process
 - Create an virtual environment: House3D
 - Install the necessary libraries:
+  - request 
   - rasterio
   - shapely
   - geopandas
@@ -44,7 +45,7 @@ Consolidate the knowledge in Python, specifically in :
 ![plot](3D-House_image.png)
 
 
-## learned lessons
+## Learned lessons
 - Implement new libraries
 - Read and use tiff and shapefiles
 - Read and use geoTIFFs
