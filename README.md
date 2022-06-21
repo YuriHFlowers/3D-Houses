@@ -41,7 +41,7 @@ Consolidate the knowledge in Python, specifically in :
 
 ## Output
 
-![plot]("3D-House_image.png")
+![plot](3D-House_image.png)
 
 
 ## learned lessons
