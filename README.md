@@ -40,7 +40,8 @@ Consolidate the knowledge in Python, specifically in :
 - Plot the canopy: 3D House 
 
 ## Output
-![Screenshot]("3D-House_image.png")
+
+![plot]("3D-House_image.png")
 
 
 ## learned lessons
