@@ -4,7 +4,7 @@
 > We are _LIDAR PLANES_, active in the Geospatial industry. We would like to use our data to launch a new branch in the insurance business. So, we need you to build a solution with our data to model a house in 3D with only a home address.
 
 ## Mission objectives
-Consolidate the knowledge in Python, specifically in :
+> Consolidate the knowledge in Python, specifically in :
 - NumPy
 - Pandas
 - Matplotlib
